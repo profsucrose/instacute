@@ -1,8 +1,5 @@
 # Instacute
-Instagram bot that automatically posts cute imagery using @dilame's instagram-private-api
+Instagram bot that automatically posts cute imagery using @dilame's instagram-private-api via a Firebase web server
 https://www.instagram.com/instacute.bot/
 
 https://github.com/dilame/instagram-private-api
-
-# Issues
-Bot worked for a bit during dev testing, but posts no longer register properly although returning success from API
